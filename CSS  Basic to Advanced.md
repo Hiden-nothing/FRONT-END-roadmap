@@ -1,4 +1,4 @@
-🎥 Best repository for Learning CSS
+📂 Best Repositories for Learning CSS
 
 Here are some of the best repository resources to help you master CSS from scratch:
 
@@ -16,3 +16,5 @@ A curated collection of CSS learning resources, offering a broad overview of CSS
 
 *[Advanced CSS Course](https://github.com/jonasschmedtmann/advanced-css-course.git)*  
 A detailed course focusing on advanced CSS topics, perfect for those looking to deepen their understanding of CSS.
+
+
