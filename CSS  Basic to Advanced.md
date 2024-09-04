@@ -18,3 +18,16 @@ A curated collection of CSS learning resources, offering a broad overview of CSS
 A detailed course focusing on advanced CSS topics, perfect for those looking to deepen their understanding of CSS.
 
 
+### 🎥 Top CSS Video Tutorials on GitHub 🌟
+
+1. *[CSS Crash Course for Beginners](https://youtu.be/ESnrn1kAD4E?si=dpEchOgcPXXuKRHh)*
+     - A comprehensive introduction to CSS basics.
+    
+2. *[Advanced CSS Techniques](https://youtu.be/OXGznpKZ_sA?si=Iuq67SLp0knVWl0N)*
+     - Dive deeper into more complex CSS concepts.
+       
+3. *[Understanding CSS Grid and Flexbox](https://youtu.be/WyxzAU3p8CE?si=v3EkPQPXFhtJl5O5)*
+     - Learn about layout systems for responsive design.
+  
+4. *[Master Responsive Design with CSS](https://youtu.be/OpWjt_wbV4E?si=-wwLa2Zvjp4YW5Zd)*
+     - Strategies for creating fluid and adaptive designs.
